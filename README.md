@@ -1,8 +1,4 @@
 # Sandpile Simulation
-
-Author: [Author's Name]
-Affiliation: [Author's Affiliation]
-
 ## Introduction
 
 This repository contains Python code for simulating sandpile dynamics on a square lattice using a probabilistic cellular automaton model. Sandpile models are often used to study self-organized criticality, a property of dynamic systems that exhibit scale-invariance and power-law distributions.
